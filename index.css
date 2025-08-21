@@ -1,61 +1,61 @@
-
 body {
-    margin: 0;
-    background-color: #1B244A;
-    text-align: center;
+   margin: 0;
+   background-color: #1B244A;
+   text-align: center;
 }
 
 .container {
-    display: flex;
-    justify-content: space-around;
+   margin-top: 100px;
+   display: flex;
+   justify-content: space-around;
 }
 
 h3 {
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 2rem;
-    font-weight: bold;
-    color: #eeeeee;
- }
+   font-family: Verdana, Geneva, sans-serif;
+   font-size: 2rem;
+   font-weight: bold;
+   color: #eeeeee;
+}
 
- .square {
-    height: 120px;
-    width: 200px;
-    background-color: #080001;
-    color: #F94F6D;
-    font-family: 'Cursed Timer ULiL', sans-serif;
-    font-size: 7rem;
-    padding-top: 15px;
-    margin-bottom: 30px;
-    border-radius: 10px;
- }
+.square {
+   height: 120px;
+   width: 200px;
+   background-color: #080001;
+   color: #F94F6D;
+   font-family: 'Cursed Timer ULiL', sans-serif;
+   font-size: 7rem;
+   padding-top: 15px;
+   margin-bottom: 30px;
+   border-radius: 10px;
+}
 
- .winning {
-    border: 5px solid orange;
- }
+.winning {
+   border: 5px solid orange;
+}
 
- .btn-group {
-    display: flex;
-    justify-content: space-between;
- }
+.btn-group {
+   display: flex;
+   justify-content: space-between;
+}
 
- .add-btn {
-    font-family: 'Cursed Timer ULiL', sans-serif;
-    color: #9AABD8;
-    background-color: transparent;
-    font-size: 1.5rem;
-    padding: 10px;
-    border-radius: 5px;
-    cursor: pointer;
- }
+.add-btn {
+   font-family: 'Cursed Timer ULiL', sans-serif;
+   color: #9AABD8;
+   background-color: transparent;
+   font-size: 1.5rem;
+   padding: 10px;
+   border-radius: 5px;
+   cursor: pointer;
+}
 
- #new-game-btn {
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 2rem;
-    font-weight: bold;
-    background-color: transparent;
-    color: #eeeeee;
-    padding: 20px 30px;
-    border-radius: 20px;
-    cursor: pointer;
- }
-
+#new-game-btn {
+   margin-top: 100px;
+   font-family: Verdana, Geneva, sans-serif;
+   font-size: 2rem;
+   font-weight: bold;
+   background-color: transparent;
+   color: #eeeeee;
+   padding: 20px 30px;
+   border-radius: 20px;
+   cursor: pointer;
+}
